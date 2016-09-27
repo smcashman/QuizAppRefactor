@@ -1,0 +1,85 @@
+#title {
+	text-align: center;
+	font-family: 'Sacramento', cursive;
+	font-size: 3em;
+}
+
+body {
+	background-color: rgb(192, 174, 191);
+	font-family: "Patrick Hand", serif;
+}
+
+.QuizContainer {
+	margin: 0 auto;
+  	min-height:25em;
+  	
+  	max-width: 435px;
+}
+
+.singlequestion {
+	margin: 0 auto;
+}
+
+.singlequestion button {
+	margin: 0 auto;
+	display: inline-block;
+	
+
+}
+
+.buttonwrapper {
+	margin-left: 15%;
+}
+
+img {
+	
+	border: 5px black solid;
+	margin-bottom:1.5em;
+	max-width: 435px;
+}
+
+p{
+	text-align: center;
+}
+
+.counterbox, .scoreStatement {
+	text-align: center;
+}
+
+h2, h1 {
+	text-align: center;
+}
+
+.restart {
+	margin: 0 auto;
+	margin-left: 190px;
+}
+
+.gameover {
+	text-align: center;
+}
+
+.gallery {
+	margin: 0 auto;
+	margin-left: 165px;
+}
+
+#galleryhead {
+	padding: 10px;
+}
+
+.thumbnail{
+	margin: 0 auto;
+	max-width: 100px;
+	max-height:80px;
+	display: inline-block;
+}
+
+.Questions {
+	font-size: 1.5em;
+	border-radius: 5px;
+	font-family: 'Patrick Hand', serif;
+	display:inline-block;
+	padding-top: 5px;
+	margin:5px;
+}
